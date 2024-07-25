@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shakil-37
 - 👀 I’m interested in javascript programming
-- 🌱 I’m currently learning mern-stack
+- 🌱 I’m currently searching job
 
 
 <!---
